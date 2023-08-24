@@ -1,0 +1,3 @@
+[submodule "Task-Manager-frontend"]
+	path = Task-Manager-frontend
+	url = https://github.com/abhishek12m/Redux-CRUD-with-Spring-Boot.git
